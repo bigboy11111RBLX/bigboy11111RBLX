@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on a Discord Bot.
 
-🌱 I’m currently learning Lua and Python.
+- 🌱 I’m currently learning Lua and Python.
 
-📫 How to reach me: Visit www.bigboi.ga and click on GitHub, or copy my Discord username and send me a friend request.
+- 📫 How to reach me: Visit www.bigboi.ga and click on GitHub, or copy my Discord username and send me a friend request.
 
-😄 Pronouns: He / Him.
+- 😄 Pronouns: He / Him.
