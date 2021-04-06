@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am Big, and I enjoy coding and designing planes for Roblox.
 
-🔭 I’m currently working on a Discord Bot.
+- 🔭 I’m currently working on a Discord Bot.
 
 🌱 I’m currently learning Lua and Python.
 
