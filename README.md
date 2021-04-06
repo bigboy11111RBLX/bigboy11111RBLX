@@ -10,3 +10,10 @@
 - 📫 How to reach me: Visit www.bigboi.ga and click on GitHub, or copy my Discord username and send me a friend request.
 
 - 😄 Pronouns: He / Him.
+
+### What do I do?
+I usually code projects, or play some games.
+
+### Contact Me:</BR>
+  EMAIL: bigboy1rblx@gmail.com</BR>
+  DISCORD: bigboy_11111#0001</BR>
