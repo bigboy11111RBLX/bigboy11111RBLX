@@ -16,4 +16,4 @@ I usually code projects, or play some games.
 
 ### Contact Me:</BR>
   EMAIL: bigboy1rblx@gmail.com</BR>
-  DISCORD: bigboy_11111#4596</BR>
+  DISCORD: bigboy_11111#0001</BR>
