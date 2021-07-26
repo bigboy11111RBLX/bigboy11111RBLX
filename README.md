@@ -11,6 +11,8 @@
 
 - 😄 Pronouns: He / Him.
 
+- Twitter: Bigboy_11111rblx
+
 ### What do I do?
 I usually code projects, or play some games.
 
