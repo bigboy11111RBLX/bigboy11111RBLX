@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a Discord Bot.
 
-- 🌱 I’m currently learning Lua and Python.
+- 🌱 I’m currently learning Lua Python, and Liux distros.
 
 - 🤖 I code in HTMl, CSS, JS, C#.
 
