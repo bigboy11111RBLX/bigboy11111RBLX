@@ -7,7 +7,7 @@
 
 - 🤖 I code in HTMl, CSS, JS, C#.
 
-- 📫 How to reach me: Visit www.bigboi.ga and click on GitHub, or copy my Discord username and send me a friend request.
+- 📫 How to reach me: Visit www.pasieka.dev and click on GitHub, or copy my Discord username and send me a friend request.
 
 - 😄 Pronouns: He / Him.
 
