@@ -17,5 +17,5 @@
 I usually code projects, or play some games.
 
 ### Contact Me:</BR>
-  EMAIL: bigboy1rblx@gmail.com</BR>
-  DISCORD: Bigboy_11111#0001</BR>
+  EMAIL: ethan@pasieka.dev</BR>
+  DISCORD: Bigg#9999</BR>
